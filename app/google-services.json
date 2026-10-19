@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859125100662",
+    "project_id": "taichiflow-2a6dc",
+    "storage_bucket": "taichiflow-2a6dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859125100662:android:c9af993d07d60cfc82ef57",
+        "android_client_info": {
+          "package_name": "com.taichiflow.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuaojzJ1AJrKB4j9lbp5vMaoplFaOE6UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
